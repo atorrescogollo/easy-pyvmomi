@@ -1,2 +1,2 @@
-# easy-pyvmomi
+# easypyvmomi
 An easy wrapper for pyvmomi
